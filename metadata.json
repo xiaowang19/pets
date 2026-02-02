@@ -1,0 +1,8 @@
+{
+  "name": "PetLove - Pet Adoption Platform",
+  "description": "A comprehensive mobile-first pet adoption application featuring discovery, detailed profiles, application tracking, community sharing, and real-time chat.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
